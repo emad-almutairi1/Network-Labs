@@ -50,10 +50,3 @@ The network is partitioned into three main subnets connected through `Router3`:
 
 ---
 
-## File Structure
-
-```text
-.
-├── Lab05-Topology.pkt      # Cisco Packet Tracer project file
-├── README.md               # Documentation and execution steps
-└── screenshots/            # Verification screenshots (Ping tests & HTTP browser output)
